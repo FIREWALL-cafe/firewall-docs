@@ -20,19 +20,19 @@ Welcome to the Firewall Cafe documentation! This guide will help you find the in
 - [Development Setup](./SETUP.md) - Environment setup guide
 - [Contributing Guidelines](./development/CONTRIBUTING.md)
 - [Development Workflow](./development/WORKFLOW.md)
-- [Testing Guide](./development/TESTING.md)
+- Testing Guide _(Phase 2)_
 
 ### API Reference
 - [API Overview](./api/README.md)
-- [Endpoints Reference](./api/ENDPOINTS.md)
-- [Database Schema](./api/DATABASE.md)
-- [Search API Integration](./api/SEARCH-APIS.md)
+- Endpoints Reference _(Phase 2)_
+- Database Schema _(Phase 2)_
+- Search API Integration _(Phase 2)_
 
 ### Frontend Development
 - [Component Library](./frontend/COMPONENTS.md)
-- [State Management](./frontend/STATE-MANAGEMENT.md)
-- [Routing](./frontend/ROUTING.md)
-- [Styling Guide](./frontend/STYLING.md)
+- State Management _(Phase 2)_
+- Routing _(Phase 2)_
+- Styling Guide _(Phase 2)_
 
 ### Deployment & Operations
 - [Google Cloud Deployment](./deployment/GOOGLE-CLOUD.md)
@@ -42,15 +42,15 @@ Welcome to the Firewall Cafe documentation! This guide will help you find the in
 - [Backup & Recovery](./deployment/BACKUP.md)
 
 ### Features
-- [Search Comparison](./features/SEARCH-COMPARISON.md)
-- [Geographic Heatmaps](./features/HEATMAPS.md)
-- [Voting System](./features/VOTING.md)
-- [Analytics Dashboard](./features/ANALYTICS.md)
+- Search Comparison _(Phase 4)_
+- Geographic Heatmaps _(Phase 4)_
+- Voting System _(Phase 4)_
+- Analytics Dashboard _(Phase 4)_
 
 ### Historical & Migration
-- [Database Evolution](./migrations/database-evolution.md)
-- [Legacy Systems](./migrations/legacy-systems.md)
-- [WordPress Sunset](./migrations/wordpress-sunset.md)
+- Database Evolution _(Phase 4)_
+- Legacy Systems _(Phase 4)_
+- WordPress Sunset _(Phase 4)_
 
 ## 🔍 Quick Reference
 
@@ -60,12 +60,12 @@ Welcome to the Firewall Cafe documentation! This guide will help you find the in
 - **Making your first contribution**: [Contributing](./development/CONTRIBUTING.md) _(Phase 2)_
 - **Deploying changes**: [Deployment Guide](./deployment/GOOGLE-CLOUD.md) _(Phase 3)_
 - **Migrating to Vercel**: [Vercel Migration Guide](./deployment/VERCEL-MIGRATION.md)
-- **Database operations**: [Database Guide](./api/DATABASE.md) _(Phase 2)_
+- **Database operations**: Database Guide _(Phase 2)_
 
 ### Troubleshooting
 - **Setup issues**: [Setup Guide - Common Issues](./SETUP.md#common-issues)
 - **API problems**: [API Troubleshooting](./api/README.md) _(Phase 2)_
-- **Database issues**: [Database Guide](./api/DATABASE.md) _(Phase 2)_
+- **Database issues**: Database Guide _(Phase 2)_
 
 ## 🔗 Repository Links
 
