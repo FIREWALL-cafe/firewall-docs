@@ -67,9 +67,21 @@ Welcome to the Firewall Cafe documentation! This guide will help you find the in
 - **API problems**: [API Troubleshooting](./api/README.md) _(Phase 2)_
 - **Database issues**: [Database Guide](./api/DATABASE.md) _(Phase 2)_
 
+## 🔗 Repository Links
+
+### Active Repositories
+- **[firewall-client-server](https://github.com/FIREWALL-cafe/firewall-client-server)** - Main application source code
+- **[firewall-web-app](https://github.com/FIREWALL-cafe/firewall-web-app)** - Web deployment
+- **[firewall-docs](https://github.com/FIREWALL-cafe/firewall-docs)** - This documentation repository
+
+### Archived Repositories
+- **[firewall-cafe](https://github.com/FIREWALL-cafe/firewall-cafe)** - Original 2020 art installation
+- **[great-firewall-watch](https://github.com/FIREWALL-cafe/great-firewall-watch)** - Automated monitoring tools
+- **[great-firewall-notebooks](https://github.com/FIREWALL-cafe/great-firewall-notebooks)** - Research notebooks
+
 ## 📞 Need Help?
 
-- **GitHub Issues**: [Report bugs or ask questions](https://github.com/FIREWALL-cafe/firewall-cafe/issues)
+- **GitHub Issues**: [Report bugs or ask questions](https://github.com/FIREWALL-cafe/firewall-client-server/issues)
 - **Development**: Check [Contributing Guidelines](./development/CONTRIBUTING.md)
 - **Contact**: info@firewallcafe.com
 
@@ -84,4 +96,6 @@ Welcome to the Firewall Cafe documentation! This guide will help you find the in
 
 ---
 
-*Last updated: 2025-08-26*
+*Last updated: 2025-01-12*
+
+*Firewall Cafe Documentation - Understanding internet censorship through comparative search analysis*
